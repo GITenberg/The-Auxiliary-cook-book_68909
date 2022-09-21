@@ -1,0 +1,27 @@
+_repo: The-Auxiliary-cook-book_68909
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2022-09-05'
+identifiers:
+  gutenberg: '68909'
+language: en
+pgterms:marc905: 20220202193352listed
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (The New York Public Library's Digital Collections)
+publication_note: United States :The Auxiliary Society of the Hebrew Sheltering Guardian
+  Society of New York Orphan Asylum,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Auxiliary cook book
+url: http://www.gutenberg.org/ebooks/68909
